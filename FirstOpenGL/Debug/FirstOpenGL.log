@@ -1,0 +1,114 @@
+﻿  Utilities.cpp
+  TheMain.cpp
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(195): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(201): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(202): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(203): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(204): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(206): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(208): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(209): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(210): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(228): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(275): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(303): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(304): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(316): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(317): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(318): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(319): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(321): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(322): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(323): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(324): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(340): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(429): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(435): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(436): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(437): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(438): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(439): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(440): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(441): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(442): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(461): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(463): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(116): note: see declaration of 'asctime'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(490): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(491): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(116): note: see declaration of 'asctime'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(511): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(512): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(523): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(524): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(525): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(526): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(527): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(528): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(529): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(585): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(586): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(598): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(599): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(600): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(601): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(603): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(604): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(605): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(606): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(622): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(708): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(709): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(710): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(751): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(752): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(765): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(766): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(767): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(768): warning C4244: '=': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(770): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(771): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(772): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(991): warning C4305: '=': truncation from 'double' to 'float'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(1173): warning C4305: '=': truncation from 'double' to 'float'
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(916): warning C4101: 'vpos_location': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(916): warning C4101: 'vcol_location': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(915): warning C4101: 'fragment_shader': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(915): warning C4101: 'vertex_shader': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(915): warning C4101: 'program': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(915): warning C4101: 'vertex_buffer': unreferenced local variable
+  Lua.cpp
+  cVertex_xyz_rgb.cpp
+  cVAOMeshManager.cpp
+  cTriangle.cpp
+  cShaderManager.cpp
+  cShader.cpp
+  cMesh.cpp
+  cGameObject.cpp
+  Generating Code...
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\cvaomeshmanager.cpp(185): warning C4715: 'cVAOMeshManager::lookupVAOFromName': not all control paths return a value
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\themain.cpp(572): warning C4715: 'OrientToAfter': not all control paths return a value
+  ModelUtilities.cpp
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\modelutilities.cpp(53): warning C4101: 'intensity': unreferenced local variable
+d:\game_development\sem_1\game_framework\frameworks_shalin_dhaval_prakash\firstopengl (32bit, day 7b)\firstopengl\modelutilities.cpp(53): warning C4101: 'confidence': unreferenced local variable
+  glad.c
+     Creating library D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\FirstOpenGL.lib and object D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\FirstOpenGL.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\glfw.pdb'; linking object as if no debug info
+  FirstOpenGL.vcxproj -> D:\Game_Development\Sem_1\Game_Framework\FrameWorks_SHALIN_DHAVAL_PRAKASH\FirstOpenGL (32bit, Day 7b)\Debug\FirstOpenGL.exe
